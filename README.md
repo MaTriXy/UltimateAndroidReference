@@ -16,10 +16,12 @@ Happy learning. :+1:
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/aritraroy/ultimate-android-reference/blob/master/LICENSE)
 
-## Supported with :heart: by [Instabug](https://instabug.com/?utm_source=androidref&utm_medium=spon&utm_content=header)
+## Recommended SDK for Bug and Crash Reporting - [Instabug](https://try.instabug.com/android/?utm_source=androidref&utm_medium=spon&utm_content=header)
 
-[![Instabug](https://user-images.githubusercontent.com/9888943/33424996-24edb968-d5c6-11e7-96bd-5d90832316a9.gif)](https://instabug.com/?utm_source=androidref&utm_medium=spon&utm_content=banner)
-Instabug SDK allows mobile developers to receive detailed bug reports from users and testers directly from inside the app. Instabug attaches screenshots, screen recordings, network requests, device environment details, and reproduce steps with each bug report. This  minimizes debugging time and helps developers in tracing weird bugs. The SDK integration takes less than one minute with only one line of code. [Learn more.](https://instabug.com/?utm_source=androidref&utm_medium=spon&utm_content=learn-more)
+[![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40114739-4e0ff416-590e-11e8-9a29-55fb2d4cfebc.png)](https://try.instabug.com/android/?utm_source=androidref&utm_medium=spon&utm_content=banner)
+
+> Instabug has just released their visual repro steps feature to enable you to trace all the views that the user interacted with before a bug or a crash occurred. This will help you reproduce bugs and fix them 10x faster.<br>
+We highly recommend integrating Instabug’s framework as they compiled a lot of other great features providing you with useful and rich data attached to each bug or crash report. [_Learn more._ ](https://try.instabug.com/android/?utm_source=androidref&utm_medium=spon&utm_content=learn-more)🚀
 [![](https://instabug-ga.appspot.com/UA-41982088-6/github/ultimateAndroidReference?pixel)](https://instabug.com)
 
 
@@ -78,6 +80,7 @@ These are some of the best and the most popular libraries and utilities to boost
 
 ### Animations
 
+* [AndroidAdditiveAnimations](https://github.com/wirecube/android_additive_animations) - Additive animations for Android!
 * [AndroidRippleBackground](https://github.com/skyfishjy/android-ripple-background) - A beautiful ripple animation
 * [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection
 * [Backboard](https://github.com/tumblr/Backboard) - A motion-driven animation framework for Android
@@ -88,6 +91,7 @@ These are some of the best and the most popular libraries and utilities to boost
 * [Rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app
 * [RichPath](https://github.com/tarek360/RichPath) - 💪 Rich Android Path. 🤡 Draw as you want. 🎉 Animate much as you can
 * [Spruce](https://github.com/willowtreeapps/spruce-android) - Spruce Animation Library
+* [TestButler](https://github.com/linkedin/test-butler) -  Reliable Android Testing, at your service
 * [ViewAnimator](https://github.com/florent37/ViewAnimator) - A fluent Android animation library
 
 
@@ -168,13 +172,13 @@ and Android apps
 
 ### Networking
 
-* [Bridge](https://github.com/afollestad/bridge) - A simple but powerful HTTP networking library for Java. It features a Fluent chainable API, powered by Java URLConnection classes for maximum compatibility and speed
 * [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
 * [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
 * [OkDownload](https://github.com/lingochamp/okdownload) - A Reliable, Flexible, Fast and Powerful download engine
 * [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader) - A file downloader library for Android with pause and resume support
 * [Retrofit](https://square.github.io/retrofit) - Retrofit turns your REST API into a Java interface
+* [Scarlet](https://github.com/Tinder/Scarlet) - A Retrofit inspired WebSocket client for Kotlin, Java, and Android 
 * [Volley](https://github.com/google/volley) - Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster
 
 ### Persistence
@@ -183,6 +187,7 @@ and Android apps
 * [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM Android database library that writes database code for you
 * [Firebase Realtime Database](https://firebase.google.com/docs/database) - Store and sync data with our NoSQL cloud database. Data is synced across all clients in realtime, and remains available when your app goes offline
 * [greenDAO](https://github.com/greenrobot/greenDAO) - greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases
+* [ObjectBox](https://github.com/objectbox/objectbox-java) -  superfast object-oriented database with strong relation support. ObjectBox is embedded into your Android, Linux, macOS, or Windows app
 * [Paper](https://github.com/pilgr/Paper) - Fast and simple data storage library for Android
 * [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs
 * [Room](https://developer.android.com/topic/libraries/architecture/room.html) - Room provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite
@@ -219,6 +224,7 @@ and Android apps
 * [BottomSheet](https://github.com/Flipboard/bottomsheet) - Android component which presents a dismissible view from the bottom of the screen
 * [Cafebar](https://github.com/danimahardhika/cafebar) - An upgraded Snackbar for Android that provides more options and easy to use
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
+* [Cyanea](https://github.com/jaredrummler/Cyanea) - A theme engine for Android
 * [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
 * [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for Android
 * [Epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView
@@ -247,6 +253,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 ### Utilities
 
 * [Aesthetic](https://github.com/afollestad/aesthetic) - A fast and easy to use plug-and-play dynamic theme engine. Powered by Rx, for Android apps
+* [Alligator](https://github.com/aartikov/Alligator) - Alligator is a modern Android navigation library that will help to organize your navigation code in clean and testable way
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating)
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
 * [Android Crop](https://github.com/jdamcd/android-crop) - Android library project for cropping images
@@ -281,6 +288,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 
 * [AutoDispose](https://github.com/uber/AutoDispose) - Automatic binding+disposal of RxJava 2 streams
 * [Android KTX](https://github.com/android/android-ktx) - A set of Kotlin extensions for Android app development
+* [Domic](https://github.com/lyft/domic) - Reactive Virtual DOM for Android
 * [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
 * [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 * [Lightweight Stream API](https://github.com/aNNiMON/Lightweight-Stream-API) - Stream API from Java 8 rewritten on iterators for Java 7 and below
@@ -294,6 +302,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [RxLifecycle](https://github.com/trello/RxLifecycle) - Lifecycle handling APIs for Android apps using RxJava
 * [RxLint](https://bitbucket.org/littlerobots/rxlint) - rxlint is a set of lint checks that check your RxJava code. There are currently three checks
 * [RxRelay](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and a Consumer
+* [Slick](https://github.com/MRezaNasirloo/Slick) - A Reactive MVP Framework which is Slick to use
 * [Traceur](https://github.com/T-Spoon/Traceur) - Easier RxJava2 debugging with better stacktraces
 
 
@@ -377,6 +386,7 @@ Stitch your photos together vertically or horizontally easily!
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting
 * [Codota](https://www.codota.com/ide-plugin) - Supercharge your development workflow by getting great code examples directly in your IDE. The Codota plugin for IntelliJ lets you quickly find the best code examples for every API class or method
 * [Dagger IntelliJ Plugin](https://github.com/square/dagger-intellij-plugin) - An IntelliJ IDEA plugin for Dagger which provides insight into how injections and providers are used
+* [Detekt](https://github.com/arturbosch/detekt) - Static code analysis for Kotlin
 * [DevKnox](https://devknox.io) - Autocorrect Security Issues As You Write Code
 * [Dex Count Gradle Plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) - A Gradle plugin to report the number of method references in your APK on every build
 * [Dex Method Counts](https://github.com/mihaip/dex-method-counts) - Command-line tool to count per-package methods in Android .dex files
@@ -391,6 +401,7 @@ Stitch your photos together vertically or horizontally easily!
 * [JSONBlob](https://jsonblob.com) - JSON Blob is a web-based tool to create, edit, view, format, and share JSON
 * [JSONSchema2POJO](http://www.jsonschema2pojo.org) - Easy and quick way to convert your JSON to Java objects
 * [KeyPromoter](https://plugins.jetbrains.com/plugin/4455-key-promoter) - Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display)
+* [KtLint](https://github.com/shyiko/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
 * [Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin) - This plugin help you to set material design icon to your project
 * [Material Palette](https://www.materialpalette.com) - Generate Material Design color palettes quickly and easily
 * [Methods Count](http://www.methodscount.com) - Your solution for a perfectly fit APK
@@ -403,7 +414,9 @@ Stitch your photos together vertically or horizontally easily!
 * [Scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 * [Shape Shifter](https://shapeshifter.design) - Useful tool for creating simple path morphing AnimatedVectorDrawables
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
+* [Sonar](https://github.com/facebook/Sonar) - A desktop debugging platform for mobile developers
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint) - SonarLint is an IntelliJ IDEA plugin that provides on-the-fly feedback to developers on new bugs and quality issues injected into Java
+* [Spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 * [SourceTree](https://www.sourcetreeapp.com) - Harness the power of Git and Hg in a beautifully simple application
 * [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - Provides actions for text manipulation such as toggle, capitalize, encode/decode, etc
 * [SVG2VectorDrawable Plugin](https://plugins.jetbrains.com/plugin/8103-svg2vectordrawable) - Tools for convert SVG file to Android VectorDrawable
@@ -532,12 +545,11 @@ If you want to keep yourself updated with all the latest Android development new
 
 * [AndroidPub](https://android.jlelse.eu) - The Pub(lication) for Android & Tech, focused on Development
 * [Android Arsenal](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps
-* [Andorid Design Patterns](http://www.androiddesignpatterns.com) - Android Design Patterns is a website for developers who wish to better understand the Android application framework
+* [Android Design Patterns](http://www.androiddesignpatterns.com) - Android Design Patterns is a website for developers who wish to better understand the Android application framework
 * [AndroidDevDigest](https://www.androiddevdigest.com) - A Handcrafted Weekly #AndroidDev Newsletter
 * [Android Developers Official](https://developer.android.com/training/index.html) - The official Android development page provided by Google containing all the documentations and trainings
 * [Android Hive](http://www.androidhive.info) - Androidhive is independent online publication that covers Android programming tutorials, app reviews and more
 * [Android Niceties](http://androidniceties.tumblr.com) - A collection of screenshots encompassing some of the most beautiful looking Android apps
-* [AndroidPub](https://android.jlelse.eu/) - The Pub(lication) for Android & Tech, focused on Development
 * [Android Weekly](http://androidweekly.net) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development
 * [Antonio Leiva's Blog](https://antonioleiva.com/category/blog/) - Amazing blog on Android development, with special focus on Kotlin from Antonio Leiva
 * [Caster.IO](https://caster.io) - Skyrocket your Android career with bite sized Android development video training
@@ -548,6 +560,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Medium's Google Developers Blog](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
 * [Mindork's Blog](https://blog.mindorks.com) - A regularly updated blog talking about various aspects of Android development in detail
 * [Philosophical Hacker](https://www.philosophicalhacker.com) - Some really informative articles on Android development
+* [ProAndroidDev](https://proandroiddev.com/) - Professional Android Development: the latest posts from Android Professionals and Google Developer Experts.
 * [Reddit's AndroidDev](https://www.reddit.com/r/androiddev) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how
 * [Styling Android](https://blog.stylingandroid.com) - Learn perfecting your Android UI and UX development skills
 * [Talking Kotlin](http://talkingkotlin.com/) - A Podcast on Kotlin and more
@@ -593,6 +606,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [Android Testing](https://github.com/googlesamples/android-testing) - A collection of samples demonstrating different frameworks and techniques for automated testing
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide) - Complete reference for Android Testing with examples
 * [Android Things Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
+* [Android UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) - This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices
 * [Clean Architecture Manifest](https://github.com/ImangazalievM/CleanArchitectureManifest) - Description of the main principles and rules for building an Android application using Clean Architecture approach
 * [CW Omnibus](https://github.com/commonsguy/cw-omnibus) - Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
 * [Effective Android UI](https://github.com/pedrovgs/EffectiveAndroidUI) - Sample project created to show some of the best Android practices to work in the Android UI Layer
